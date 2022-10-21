@@ -1,0 +1,21 @@
+{
+  "name": "instavinsta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "insta-reel": "^2.0.1",
+    "insta-scraper": "^1.0.2",
+    "instagram-url-downloader": "^1.1.0",
+    "node-auth-barong": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "ytdl-core": "^4.11.2"
+  }
+}
