@@ -35,8 +35,8 @@ const corsOptions ={
 
 app.use(cors(corsOptions))
 
-app.listen(3300, () => {
-    console.log('Example app listening on port 3300!')
+app.listen(8080, () => {
+    console.log('Example app listening on port 8080!')
     });
 
 // app.get('/:id', async (req, res) => {
